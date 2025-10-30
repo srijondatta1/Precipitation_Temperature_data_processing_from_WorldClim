@@ -1,0 +1,7 @@
+pandas
+rasterio
+pyproj
+requests
+tqdm
+glob2
+numpy  # Often a prerequisite for pandas/rasterio/geospatial libraries
